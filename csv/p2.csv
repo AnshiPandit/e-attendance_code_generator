@@ -1,0 +1,91 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+2,Madesh,DCS Office,Janakpur RO,Karar,72000001,72000100
+2,Madesh,DCS Office,Janakpur RO,Myadi,62000001,62000100
+2,Madesh,DCS Office,Janakpur RO,Jyaladari,52000001,52000200
+2,Madesh,DCS Office,Kanchanpur DCS,Karar,72000101,72000200
+2,Madesh,DCS Office,Kanchanpur DCS,Myadi,62000101,62000200
+2,Madesh,DCS Office,Kanchanpur DCS,Jyaladari,52000201,52000400
+2,Madesh,DCS Office,Rajbiraj DCS,Karar,72000201,72000300
+2,Madesh,DCS Office,Rajbiraj DCS,Myadi,62000201,62000300
+2,Madesh,DCS Office,Rajbiraj DCS,Jyaladari,52000401,52000600
+2,Madesh,DCS Office,Hanuman Nagar SDC,Karar,72000301,72000400
+2,Madesh,DCS Office,Hanuman Nagar SDC,Myadi,62000301,62000400
+2,Madesh,DCS Office,Hanuman Nagar SDC,Jyaladari,52000601,52000800
+2,Madesh,DCS Office,Bodebarsain DCS,Karar,72000401,72000500
+2,Madesh,DCS Office,Bodebarsain DCS,Myadi,62000401,62000500
+2,Madesh,DCS Office,Bodebarsain DCS,Jyaladari,52000801,52001000
+2,Madesh,DCS Office,Lahan DCS,Karar,72000501,72000600
+2,Madesh,DCS Office,Lahan DCS,Myadi,62000501,62000600
+2,Madesh,DCS Office,Lahan DCS,Jyaladari,52001001,52001200
+2,Madesh,DCS Office,Mirchaiya DCS,Karar,72000601,72000700
+2,Madesh,DCS Office,Mirchaiya DCS,Myadi,62000601,62000700
+2,Madesh,DCS Office,Mirchaiya DCS,Jyaladari,52001201,52001400
+2,Madesh,DCS Office,Siraha DCS,Karar,72000701,72000800
+2,Madesh,DCS Office,Siraha DCS,Myadi,62000701,62000800
+2,Madesh,DCS Office,Siraha DCS,Jyaladari,52001401,52001600
+2,Madesh,DCS Office,Yedukuwa DCS,Karar,72000801,72000900
+2,Madesh,DCS Office,Yedukuwa DCS,Myadi,62000801,62000900
+2,Madesh,DCS Office,Yedukuwa DCS,Jyaladari,52001601,52001800
+2,Madesh,DCS Office,Janakpur DCS,Karar,72000901,72001000
+2,Madesh,DCS Office,Janakpur DCS,Myadi,62000901,62001000
+2,Madesh,DCS Office,Janakpur DCS,Jyaladari,52001801,52002000
+2,Madesh,DCS Office,DhanushaDham DCS,Karar,72001001,72001100
+2,Madesh,DCS Office,DhanushaDham DCS,Myadi,62001001,62001100
+2,Madesh,DCS Office,DhanushaDham DCS,Jyaladari,52002001,52002200
+2,Madesh,DCS Office,Sakhuwa DCS,Karar,72001101,72001200
+2,Madesh,DCS Office,Sakhuwa DCS,Myadi,62001101,62001200
+2,Madesh,DCS Office,Sakhuwa DCS,Jyaladari,52002201,52002400
+2,Madesh,DCS Office,Gaushala DCS,Karar,72001201,72001300
+2,Madesh,DCS Office,Gaushala DCS,Myadi,62001201,62001300
+2,Madesh,DCS Office,Gaushala DCS,Jyaladari,52002401,52002600
+2,Madesh,DCS Office,Bardibash SDC,Karar,72001301,72001400
+2,Madesh,DCS Office,Bardibash SDC,Myadi,62001301,62001400
+2,Madesh,DCS Office,Bardibash SDC,Jyaladari,52002601,52002800
+2,Madesh,DCS Office,Jalaeshor DCS,Karar,72001401,72001500
+2,Madesh,DCS Office,Jalaeshor DCS,Myadi,62001401,62001500
+2,Madesh,DCS Office,Jalaeshor DCS,Jyaladari,52002801,52003000
+2,Madesh,DCS Office,Barahthawa DCS,Karar,72001501,72001600
+2,Madesh,DCS Office,Barahthawa DCS,Myadi,62001501,62001600
+2,Madesh,DCS Office,Barahthawa DCS,Jyaladari,52003001,52003200
+2,Madesh,DCS Office,Malangwa DCS,Karar,72001601,72001700
+2,Madesh,DCS Office,Malangwa DCS,Myadi,62001601,62001700
+2,Madesh,DCS Office,Malangwa DCS,Jyaladari,52003201,52003400
+2,Madesh,DCS Office,Lalbandi DCS,Karar,72001701,72001800
+2,Madesh,DCS Office,Lalbandi DCS,Myadi,62001701,62001800
+2,Madesh,DCS Office,Lalbandi DCS,Jyaladari,52003401,52003600
+2,Madesh,DCS Office,Chandranigapur DCS,Karar,72001801,72001900
+2,Madesh,DCS Office,Chandranigapur DCS,Myadi,62001801,62001900
+2,Madesh,DCS Office,Chandranigapur DCS,Jyaladari,52003601,52003800
+2,Madesh,DCS Office,Maulapur DCS,Karar,72001901,72002000
+2,Madesh,DCS Office,Maulapur DCS,Myadi,62001901,62002000
+2,Madesh,DCS Office,Maulapur DCS,Jyaladari,52003801,52004000
+2,Madesh,DCS Office,Gaur DCS,Karar,72002001,72002100
+2,Madesh,DCS Office,Gaur DCS,Myadi,62002001,62002100
+2,Madesh,DCS Office,Gaur DCS,Jyaladari,52004001,52004200
+2,Madesh,DCS Office,Simrongadh DCS,Karar,72002101,72002200
+2,Madesh,DCS Office,Simrongadh DCS,Myadi,62002101,62002200
+2,Madesh,DCS Office,Simrongadh DCS,Jyaladari,52004201,52004400
+2,Madesh,DCS Office,Kalaiya DCS,Karar,72002201,72002300
+2,Madesh,DCS Office,Kalaiya DCS,Myadi,62002201,62002300
+2,Madesh,DCS Office,Kalaiya DCS,Jyaladari,52004401,52004600
+2,Madesh,DCS Office,Birgunj DCS,Karar,72002301,72002400
+2,Madesh,DCS Office,Birgunj DCS,Myadi,62002301,62002400
+2,Madesh,DCS Office,Birgunj DCS,Jyaladari,52004601,52004800
+2,Madesh,DCS Office,Pokhariya DCS,Karar,72002401,72002500
+2,Madesh,DCS Office,Pokhariya DCS,Myadi,62002401,62002500
+2,Madesh,DCS Office,Pokhariya DCS,Jyaladari,52004801,52005000
+2,Madesh,DCS Office,Simara DCS,Karar,72002501,72002600
+2,Madesh,DCS Office,Simara DCS,Myadi,62002501,62002600
+2,Madesh,DCS Office,Simara DCS,Jyaladari,52005001,52005200
+2,Madesh,DCS Office,Nijgadh SDC,Karar,72002601,72002700
+2,Madesh,DCS Office,Nijgadh SDC,Myadi,62002601,62002700
+2,Madesh,DCS Office,Nijgadh SDC,Jyaladari,52005201,52005400
+2,Madesh,Generation,,Karar,72010000,
+2,Madesh,Generation,,Myadi,62010000,
+2,Madesh,Generation,,Jyaladari,52010000,
+2,Madesh,Transmission,,Karar,72020000,
+2,Madesh,Transmission,,Myadi,62020000,
+2,Madesh,Transmission,,Jyaladari,52020000,
+2,Madesh,Engineering,,Karar,72030000,
+2,Madesh,Engineering,,Myadi,62030000,
+2,Madesh,Engineering,,Jyaladari,52030001,

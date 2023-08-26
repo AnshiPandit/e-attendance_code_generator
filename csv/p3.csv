@@ -1,0 +1,145 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+3,Bagmati,DCS Office,kathmandu RO,Karar,73000001,73000100
+3,Bagmati,DCS Office,kathmandu RO,Myadi,63000001,63000100
+3,Bagmati,DCS Office,kathmandu RO,Jyaladari,53000001,53000200
+3,Bagmati,DCS Office,Dolakah DCS,Karar,73000101,73000200
+3,Bagmati,DCS Office,Dolakah DCS,Myadi,63000101,63000200
+3,Bagmati,DCS Office,Dolakah DCS,Jyaladari,53000201,53000400
+3,Bagmati,DCS Office,Jiri SDC,Karar,73000201,73000300
+3,Bagmati,DCS Office,Jiri SDC,Myadi,63000201,63000300
+3,Bagmati,DCS Office,Jiri SDC,Jyaladari,53000401,53000600
+3,Bagmati,DCS Office,Mainapokhari SDC,Karar,73000301,73000400
+3,Bagmati,DCS Office,Mainapokhari SDC,Myadi,63000301,63000400
+3,Bagmati,DCS Office,Mainapokhari SDC,Jyaladari,53000601,53000800
+3,Bagmati,DCS Office,Kharidhunga SDC,Karar,73000401,73000500
+3,Bagmati,DCS Office,Kharidhunga SDC,Myadi,63000401,63000500
+3,Bagmati,DCS Office,Kharidhunga SDC,Jyaladari,53000801,53001000
+3,Bagmati,DCS Office,Rameschap DCS(Manthali),Karar,73000501,73000600
+3,Bagmati,DCS Office,Rameschap DCS(Manthali),Myadi,63000501,63000600
+3,Bagmati,DCS Office,Rameschap DCS(Manthali),Jyaladari,53001001,53001200
+3,Bagmati,DCS Office,Ramechap SDC,Karar,73000601,73000700
+3,Bagmati,DCS Office,Ramechap SDC,Myadi,63000601,63000700
+3,Bagmati,DCS Office,Ramechap SDC,Jyaladari,53001201,53001400
+3,Bagmati,DCS Office,Panchkhal DCS,Karar,73000701,73000800
+3,Bagmati,DCS Office,Panchkhal DCS,Myadi,63000701,63000800
+3,Bagmati,DCS Office,Panchkhal DCS,Jyaladari,53001401,53001600
+3,Bagmati,DCS Office,Kavre DCs,Karar,73000801,73000900
+3,Bagmati,DCS Office,Kavre DCs,Myadi,63000801,63000900
+3,Bagmati,DCS Office,Kavre DCs,Jyaladari,53001601,53001800
+3,Bagmati,DCS Office,Panauti SDC,Karar,73000901,73001000
+3,Bagmati,DCS Office,Panauti SDC,Myadi,63000901,63001000
+3,Bagmati,DCS Office,Panauti SDC,Jyaladari,53001801,53002000
+3,Bagmati,DCS Office,Sindhupalchowk DCS,Karar,73001001,73001100
+3,Bagmati,DCS Office,Sindhupalchowk DCS,Myadi,63001001,63001100
+3,Bagmati,DCS Office,Sindhupalchowk DCS,Jyaladari,53002001,53002200
+3,Bagmati,DCS Office,Barhbise SDC,Karar,73001101,73001200
+3,Bagmati,DCS Office,Barhbise SDC,Myadi,63001101,63001200
+3,Bagmati,DCS Office,Barhbise SDC,Jyaladari,53002201,53002400
+3,Bagmati,DCS Office,Chautara SDC,Karar,73001201,73001300
+3,Bagmati,DCS Office,Chautara SDC,Myadi,63001201,63001300
+3,Bagmati,DCS Office,Chautara SDC,Jyaladari,53002401,53002600
+3,Bagmati,DCS Office,Melamchi DCS,Karar,73001301,73001400
+3,Bagmati,DCS Office,Melamchi DCS,Myadi,63001301,63001400
+3,Bagmati,DCS Office,Melamchi DCS,Jyaladari,53002601,53002800
+3,Bagmati,DCS Office,Dhunche DCS,Karar,73001401,73001500
+3,Bagmati,DCS Office,Dhunche DCS,Myadi,63001401,63001500
+3,Bagmati,DCS Office,Dhunche DCS,Jyaladari,53002801,53003000
+3,Bagmati,DCS Office,Nuwakot DCS,Karar,73001501,73001600
+3,Bagmati,DCS Office,Nuwakot DCS,Myadi,63001501,63001600
+3,Bagmati,DCS Office,Nuwakot DCS,Jyaladari,53003001,53003200
+3,Bagmati,DCS Office,Dhading DCS,Karar,73001601,73001700
+3,Bagmati,DCS Office,Dhading DCS,Myadi,63001601,63001700
+3,Bagmati,DCS Office,Dhading DCS,Jyaladari,53003201,53003400
+3,Bagmati,DCS Office,gajuri SDC,Karar,73001701,73001800
+3,Bagmati,DCS Office,gajuri SDC,Myadi,63001701,63001800
+3,Bagmati,DCS Office,gajuri SDC,Jyaladari,53003401,53003600
+3,Bagmati,DCS Office,Dharke SDC,Karar,73001801,73001900
+3,Bagmati,DCS Office,Dharke SDC,Myadi,63001801,63001900
+3,Bagmati,DCS Office,Dharke SDC,Jyaladari,53003601,53003800
+3,Bagmati,DCS Office,Bhaktapur DCS,Karar,73001901,73002000
+3,Bagmati,DCS Office,Bhaktapur DCS,Myadi,63001901,63002000
+3,Bagmati,DCS Office,Bhaktapur DCS,Jyaladari,53003801,53004000
+3,Bagmati,DCS Office,Thimi DCS,Karar,73002001,73002100
+3,Bagmati,DCS Office,Thimi DCS,Myadi,63002001,63002100
+3,Bagmati,DCS Office,Thimi DCS,Jyaladari,53004001,53004200
+3,Bagmati,DCS Office,Lagankhel DCS,Karar,73002101,73002200
+3,Bagmati,DCS Office,Lagankhel DCS,Myadi,63002101,63002200
+3,Bagmati,DCS Office,Lagankhel DCS,Jyaladari,53004201,53004400
+3,Bagmati,DCS Office,Chapagaun SDC,Karar,73002201,73002300
+3,Bagmati,DCS Office,Chapagaun SDC,Myadi,63002201,63002300
+3,Bagmati,DCS Office,Chapagaun SDC,Jyaladari,53004401,53004600
+3,Bagmati,DCS Office,Lubhu SDC,Karar,73002301,73002400
+3,Bagmati,DCS Office,Lubhu SDC,Myadi,63002301,63002400
+3,Bagmati,DCS Office,Lubhu SDC,Jyaladari,53004601,53004800
+3,Bagmati,DCS Office,Badegaun SDC,Karar,73002401,73002500
+3,Bagmati,DCS Office,Badegaun SDC,Myadi,63002401,63002500
+3,Bagmati,DCS Office,Badegaun SDC,Jyaladari,53004801,53005000
+3,Bagmati,DCS Office,Pulchwk DCS,Karar,73002501,73002600
+3,Bagmati,DCS Office,Pulchwk DCS,Myadi,63002501,63002600
+3,Bagmati,DCS Office,Pulchwk DCS,Jyaladari,53005001,53005200
+3,Bagmati,DCS Office,Ratnapark DCS,Karar,73002601,73002700
+3,Bagmati,DCS Office,Ratnapark DCS,Myadi,63002601,63002700
+3,Bagmati,DCS Office,Ratnapark DCS,Jyaladari,53005201,53005400
+3,Bagmati,DCS Office,Naxal SDC,Karar,73002701,73002800
+3,Bagmati,DCS Office,Naxal SDC,Myadi,63002701,63002800
+3,Bagmati,DCS Office,Naxal SDC,Jyaladari,53005401,53005600
+3,Bagmati,DCS Office,Kuleshor DCS,Karar,73002801,73002900
+3,Bagmati,DCS Office,Kuleshor DCS,Myadi,63002801,63002900
+3,Bagmati,DCS Office,Kuleshor DCS,Jyaladari,53005601,53005800
+3,Bagmati,DCS Office,Kirtipur DCs,Karar,73002901,73003000
+3,Bagmati,DCS Office,Kirtipur DCs,Myadi,63002901,63003000
+3,Bagmati,DCS Office,Kirtipur DCs,Jyaladari,53005801,53006000
+3,Bagmati,DCS Office,Balaju DCS,Karar,73003001,73003100
+3,Bagmati,DCS Office,Balaju DCS,Myadi,63003001,63003100
+3,Bagmati,DCS Office,Balaju DCS,Jyaladari,53006001,53006200
+3,Bagmati,DCS Office,Maharajgunj DCS,Karar,73003101,73003200
+3,Bagmati,DCS Office,Maharajgunj DCS,Myadi,63003101,63003200
+3,Bagmati,DCS Office,Maharajgunj DCS,Jyaladari,53006201,53006400
+3,Bagmati,DCS Office,Budhnilkanth SDC,Karar,73003201,73003300
+3,Bagmati,DCS Office,Budhnilkanth SDC,Myadi,63003201,63003300
+3,Bagmati,DCS Office,Budhnilkanth SDC,Jyaladari,53006401,53006600
+3,Bagmati,DCS Office,Jorpati DCS,Karar,73003301,73003400
+3,Bagmati,DCS Office,Jorpati DCS,Myadi,63003301,63003400
+3,Bagmati,DCS Office,Jorpati DCS,Jyaladari,53006601,53006800
+3,Bagmati,DCS Office,Sakhu SDC,Karar,73003401,73003500
+3,Bagmati,DCS Office,Sakhu SDC,Myadi,63003401,63003500
+3,Bagmati,DCS Office,Sakhu SDC,Jyaladari,53006801,53007000
+3,Bagmati,DCS Office,Baneshor DCS,Karar,73003501,73003600
+3,Bagmati,DCS Office,Baneshor DCS,Myadi,63003501,63003600
+3,Bagmati,DCS Office,Baneshor DCS,Jyaladari,53007001,53007200
+3,Bagmati,DCS Office,Chabahil SDC,Karar,73003601,73003700
+3,Bagmati,DCS Office,Chabahil SDC,Myadi,63003601,63003700
+3,Bagmati,DCS Office,Chabahil SDC,Jyaladari,53007201,53007400
+3,Bagmati,DCS Office,Hetauda Division Office,Karar,73008001,73008100
+3,Bagmati,DCS Office,Hetauda Division Office,Myadi,63008001,63008100
+3,Bagmati,DCS Office,Hetauda Division Office,Jyaladari,53008001,53008200
+3,Bagmati,DCS Office,Sindhuli DCS (Hetauda Division),Karar,73008101,73008200
+3,Bagmati,DCS Office,Sindhuli DCS (Hetauda Division),Myadi,63008101,63008200
+3,Bagmati,DCS Office,Sindhuli DCS (Hetauda Division),Jyaladari,53008201,53008400
+3,Bagmati,DCS Office,Bhiman SDC (Hetauda Division),Karar,73008201,73008300
+3,Bagmati,DCS Office,Bhiman SDC (Hetauda Division),Myadi,63008201,63008300
+3,Bagmati,DCS Office,Bhiman SDC (Hetauda Division),Jyaladari,53008401,53008600
+3,Bagmati,DCS Office,Bharatpur DCS (Hetauda Division),Karar,73008301,73008400
+3,Bagmati,DCS Office,Bharatpur DCS (Hetauda Division),Myadi,63008301,63008400
+3,Bagmati,DCS Office,Bharatpur DCS (Hetauda Division),Jyaladari,53008601,53008800
+3,Bagmati,DCS Office,Chanauli DCS (Hetauda Division),Karar,73008401,73008500
+3,Bagmati,DCS Office,Chanauli DCS (Hetauda Division),Myadi,63008401,63008500
+3,Bagmati,DCS Office,Chanauli DCS (Hetauda Division),Jyaladari,53008801,53009000
+3,Bagmati,DCS Office,Tandi DCS (Hetauda Division),Karar,73008501,73008600
+3,Bagmati,DCS Office,Tandi DCS (Hetauda Division),Myadi,63008501,63008600
+3,Bagmati,DCS Office,Tandi DCS (Hetauda Division),Jyaladari,53009001,53009200
+3,Bagmati,DCS Office,Hetauda DCS (Hetauda Division),Karar,73008601,73008700
+3,Bagmati,DCS Office,Hetauda DCS (Hetauda Division),Myadi,63008601,63008700
+3,Bagmati,DCS Office,Hetauda DCS (Hetauda Division),Jyaladari,53009201,53009400
+3,Bagmati,DCS Office,Palung DCS (Hetauda Division),Karar,73008701,73008800
+3,Bagmati,DCS Office,Palung DCS (Hetauda Division),Myadi,63008701,63008800
+3,Bagmati,DCS Office,Palung DCS (Hetauda Division),Jyaladari,53009401,53009600
+3,Bagmati,Generation,,Karar,73010000,
+3,Bagmati,Generation,,Myadi,63010000,
+3,Bagmati,Generation,,Jyaladari,53010000,
+3,Bagmati,Transmission,,Karar,73020000,
+3,Bagmati,Transmission,,Myadi,63020000,
+3,Bagmati,Transmission,,Jyaladari,53020000,
+3,Bagmati,Engineering,,Karar,73030000,
+3,Bagmati,Engineering,,Myadi,63030000,
+3,Bagmati,Engineering,,Jyaladari,53030001,

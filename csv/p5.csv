@@ -1,0 +1,94 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+5,Lumbini,DCS Office,Butwal RO,Karar,75000001,75000100
+5,Lumbini,DCS Office,Butwal RO,Myadi,65000001,65000100
+5,Lumbini,DCS Office,Butwal RO,Jyaladari,55000001,55000200
+5,Lumbini,DCS Office,Parasi DCS,Karar,75000101,75000200
+5,Lumbini,DCS Office,Parasi DCS,Myadi,65000101,65000199
+5,Lumbini,DCS Office,Parasi DCS,Jyaladari,55000201,55000400
+5,Lumbini,DCS Office,Bardaghat DCS,Karar,75000201,75000300
+5,Lumbini,DCS Office,Bardaghat DCS,Myadi,65000201,65000298
+5,Lumbini,DCS Office,Bardaghat DCS,Jyaladari,55000401,55000600
+5,Lumbini,DCS Office,Triveni SDC,Karar,75000301,75000400
+5,Lumbini,DCS Office,Triveni SDC,Myadi,65000301,65000397
+5,Lumbini,DCS Office,Triveni SDC,Jyaladari,55000601,55000800
+5,Lumbini,DCS Office,Surajoura SDC,Karar,75000401,75000500
+5,Lumbini,DCS Office,Surajoura SDC,Myadi,65000401,65000496
+5,Lumbini,DCS Office,Surajoura SDC,Jyaladari,55000801,55001000
+5,Lumbini,DCS Office,Bhairahawa DCS,Karar,75000501,75000600
+5,Lumbini,DCS Office,Bhairahawa DCS,Myadi,65000501,65000595
+5,Lumbini,DCS Office,Bhairahawa DCS,Jyaladari,55001001,55001200
+5,Lumbini,DCS Office,Amuwa DCS,Karar,75000601,75000700
+5,Lumbini,DCS Office,Amuwa DCS,Myadi,65000601,65000694
+5,Lumbini,DCS Office,Amuwa DCS,Jyaladari,55001201,55001400
+5,Lumbini,DCS Office,Lumbini SDC,Karar,75000701,75000800
+5,Lumbini,DCS Office,Lumbini SDC,Myadi,65000701,65000793
+5,Lumbini,DCS Office,Lumbini SDC,Jyaladari,55001401,55001600
+5,Lumbini,DCS Office,Nayamill DCS,Karar,75000801,75000900
+5,Lumbini,DCS Office,Nayamill DCS,Myadi,65000801,65000892
+5,Lumbini,DCS Office,Nayamill DCS,Jyaladari,55001601,55001800
+5,Lumbini,DCS Office,Butwal DCS,Karar,75000901,75001000
+5,Lumbini,DCS Office,Butwal DCS,Myadi,65000901,65000991
+5,Lumbini,DCS Office,Butwal DCS,Jyaladari,55001801,55002000
+5,Lumbini,DCS Office,Taulihawa DCS,Karar,75001001,75001100
+5,Lumbini,DCS Office,Taulihawa DCS,Myadi,65001001,65001090
+5,Lumbini,DCS Office,Taulihawa DCS,Jyaladari,55002001,55002200
+5,Lumbini,DCS Office,Krishna nagar DCS,Karar,75001101,75001200
+5,Lumbini,DCS Office,Krishna nagar DCS,Myadi,65001101,65001189
+5,Lumbini,DCS Office,Krishna nagar DCS,Jyaladari,55002201,55002400
+5,Lumbini,DCS Office,Palpa DCS,Karar,75001201,75001300
+5,Lumbini,DCS Office,Palpa DCS,Myadi,65001201,65001288
+5,Lumbini,DCS Office,Palpa DCS,Jyaladari,55002401,55002600
+5,Lumbini,DCS Office,Arghakhachi DCS,Karar,75001301,75001400
+5,Lumbini,DCS Office,Arghakhachi DCS,Myadi,65001301,65001387
+5,Lumbini,DCS Office,Arghakhachi DCS,Jyaladari,55002601,55002800
+5,Lumbini,DCS Office,Gulmi DCS,Karar,75001401,75001500
+5,Lumbini,DCS Office,Gulmi DCS,Myadi,65001401,65001486
+5,Lumbini,DCS Office,Gulmi DCS,Jyaladari,55002801,55003000
+5,Lumbini,DCS Office,Ridi SDC,Karar,75001501,75001600
+5,Lumbini,DCS Office,Ridi SDC,Myadi,65001501,65001585
+5,Lumbini,DCS Office,Ridi SDC,Jyaladari,55003001,55003200
+5,Lumbini,DCS Office,Rukum EAST DCS,Karar,75002001,75002100
+5,Lumbini,DCS Office,Rukum EAST DCS,Myadi,65002001,65002100
+5,Lumbini,DCS Office,Rukum EAST DCS,Jyaladari,55004001,55004200
+5,Lumbini,DCS Office,Rolpa DCS,Karar,75002101,75002200
+5,Lumbini,DCS Office,Rolpa DCS,Myadi,65002101,65002200
+5,Lumbini,DCS Office,Rolpa DCS,Jyaladari,55004201,55004400
+5,Lumbini,DCS Office,Pyuthan DCS,Karar,75002201,75002300
+5,Lumbini,DCS Office,Pyuthan DCS,Myadi,65002201,65002300
+5,Lumbini,DCS Office,Pyuthan DCS,Jyaladari,55004401,55004600
+5,Lumbini,DCS Office,Ghorahi DCS,Karar,75002301,75002400
+5,Lumbini,DCS Office,Ghorahi DCS,Myadi,65002301,65002400
+5,Lumbini,DCS Office,Ghorahi DCS,Jyaladari,55004601,55004800
+5,Lumbini,DCS Office,Lamahi DCS,Karar,75002401,75002500
+5,Lumbini,DCS Office,Lamahi DCS,Myadi,65002401,65002500
+5,Lumbini,DCS Office,Lamahi DCS,Jyaladari,55004801,55005000
+5,Lumbini,DCS Office,Tulsipur DCS,Karar,75002501,75002600
+5,Lumbini,DCS Office,Tulsipur DCS,Myadi,65002501,65002600
+5,Lumbini,DCS Office,Tulsipur DCS,Jyaladari,55005001,55005200
+5,Lumbini,DCS Office,Kohalpur DCS,Karar,75002601,75002700
+5,Lumbini,DCS Office,Kohalpur DCS,Myadi,65002601,65002700
+5,Lumbini,DCS Office,Kohalpur DCS,Jyaladari,55005201,55005400
+5,Lumbini,DCS Office,Nepalgunj DCS,Karar,75002701,75002800
+5,Lumbini,DCS Office,Nepalgunj DCS,Myadi,65002701,65002800
+5,Lumbini,DCS Office,Nepalgunj DCS,Jyaladari,55005401,55005600
+5,Lumbini,DCS Office,Gulariya DCS,Karar,75002801,75002900
+5,Lumbini,DCS Office,Gulariya DCS,Myadi,65002801,65002900
+5,Lumbini,DCS Office,Gulariya DCS,Jyaladari,55005601,55005800
+5,Lumbini,DCS Office,Rajapur DCS,Karar,75002901,75003000
+5,Lumbini,DCS Office,Rajapur DCS,Myadi,65002901,65003000
+5,Lumbini,DCS Office,Rajapur DCS,Jyaladari,55005801,55006000
+5,Lumbini,DCS Office,Basghadi SDC,Karar,75003001,75003100
+5,Lumbini,DCS Office,Basghadi SDC,Myadi,65003001,65003100
+5,Lumbini,DCS Office,Basghadi SDC,Jyaladari,55006001,55006200
+5,Lumbini,DCS Office,Bhurigaun SDC,Karar,75003101,75003200
+5,Lumbini,DCS Office,Bhurigaun SDC,Myadi,65003101,65003200
+5,Lumbini,DCS Office,Bhurigaun SDC,Jyaladari,55006201,55006400
+5,Lumbini,Generation,,Karar,75010000,
+5,Lumbini,Generation,,Myadi,65010000,
+5,Lumbini,Generation,,Jyaladari,55010000,
+5,Lumbini,Transmission,,Karar,75020000,
+5,Lumbini,Transmission,,Myadi,65020000,
+5,Lumbini,Transmission,,Jyaladari,55020000,
+5,Lumbini,Engineering,,Karar,75030000,
+5,Lumbini,Engineering,,Myadi,65030000,
+5,Lumbini,Engineering,,Jyaladari,55030001,

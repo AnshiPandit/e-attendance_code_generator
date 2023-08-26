@@ -1,0 +1,70 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+4,Gandaki,DCS Office,Gandaki RO,Karar,74000001,74000100
+4,Gandaki,DCS Office,Gandaki RO,Myadi,64000001,64000100
+4,Gandaki,DCS Office,Gandaki RO,Jyaladari,54000001,54000200
+4,Gandaki,DCS Office,Arughat DCs,Karar,74000101,74000200
+4,Gandaki,DCS Office,Arughat DCs,Myadi,64000101,64000200
+4,Gandaki,DCS Office,Arughat DCs,Jyaladari,54000201,54000400
+4,Gandaki,DCS Office,Gorkha DCS,Karar,74000201,74000300
+4,Gandaki,DCS Office,Gorkha DCS,Myadi,64000201,64000300
+4,Gandaki,DCS Office,Gorkha DCS,Jyaladari,54000401,54000600
+4,Gandaki,DCS Office,Majhuwa SDC,Karar,74000301,74000400
+4,Gandaki,DCS Office,Majhuwa SDC,Myadi,64000301,64000400
+4,Gandaki,DCS Office,Majhuwa SDC,Jyaladari,54000601,54000800
+4,Gandaki,DCS Office,Lumjung DCS,Karar,74000401,74000500
+4,Gandaki,DCS Office,Lumjung DCS,Myadi,64000401,64000500
+4,Gandaki,DCS Office,Lumjung DCS,Jyaladari,54000801,54001000
+4,Gandaki,DCS Office,Tanahu DCS,Karar,74000501,74000600
+4,Gandaki,DCS Office,Tanahu DCS,Myadi,64000501,64000600
+4,Gandaki,DCS Office,Tanahu DCS,Jyaladari,54001001,54001200
+4,Gandaki,DCS Office,Dumre SDC,Karar,74000601,74000700
+4,Gandaki,DCS Office,Dumre SDC,Myadi,64000601,64000700
+4,Gandaki,DCS Office,Dumre SDC,Jyaladari,54001201,54001400
+4,Gandaki,DCS Office,Anbu SDC,Karar,74000701,74000800
+4,Gandaki,DCS Office,Anbu SDC,Myadi,64000701,64000800
+4,Gandaki,DCS Office,Anbu SDC,Jyaladari,54001401,54001600
+4,Gandaki,DCS Office,Lekhanath DCS,Karar,74000801,74000900
+4,Gandaki,DCS Office,Lekhanath DCS,Myadi,64000801,64000900
+4,Gandaki,DCS Office,Lekhanath DCS,Jyaladari,54001601,54001800
+4,Gandaki,DCS Office,Pokhara DCS,Karar,74000901,74001000
+4,Gandaki,DCS Office,Pokhara DCS,Myadi,64000901,64001000
+4,Gandaki,DCS Office,Pokhara DCS,Jyaladari,54001801,54002000
+4,Gandaki,DCS Office,Gramin SDC,Karar,74001001,74001100
+4,Gandaki,DCS Office,Gramin SDC,Myadi,64001001,64001100
+4,Gandaki,DCS Office,Gramin SDC,Jyaladari,54002001,54002200
+4,Gandaki,DCS Office,Parbat DCS,Karar,74001101,74001200
+4,Gandaki,DCS Office,Parbat DCS,Myadi,64001101,64001200
+4,Gandaki,DCS Office,Parbat DCS,Jyaladari,54002201,54002400
+4,Gandaki,DCS Office,Synjgya DCS,Karar,74001201,74001300
+4,Gandaki,DCS Office,Synjgya DCS,Myadi,64001201,64001300
+4,Gandaki,DCS Office,Synjgya DCS,Jyaladari,54002401,54002600
+4,Gandaki,DCS Office,Mirmi SDC,Karar,74001301,74001400
+4,Gandaki,DCS Office,Mirmi SDC,Myadi,64001301,64001400
+4,Gandaki,DCS Office,Mirmi SDC,Jyaladari,54002601,54002800
+4,Gandaki,DCS Office,Myagdi DCS,Karar,74001401,74001500
+4,Gandaki,DCS Office,Myagdi DCS,Myadi,64001401,64001500
+4,Gandaki,DCS Office,Myagdi DCS,Jyaladari,54002801,54003000
+4,Gandaki,DCS Office,Tatopani DCS,Karar,74001501,74001600
+4,Gandaki,DCS Office,Tatopani DCS,Myadi,64001501,64001600
+4,Gandaki,DCS Office,Tatopani DCS,Jyaladari,54003001,54003200
+4,Gandaki,DCS Office,Manag DCS,Karar,74001601,74001700
+4,Gandaki,DCS Office,Manag DCS,Myadi,64001601,64001700
+4,Gandaki,DCS Office,Manag DCS,Jyaladari,54003201,54003400
+4,Gandaki,DCS Office,Baglung DCS,Karar,74001701,74001800
+4,Gandaki,DCS Office,Baglung DCS,Myadi,64001701,64001800
+4,Gandaki,DCS Office,Baglung DCS,Jyaladari,54003401,54003600
+4,Gandaki,DCS Office,Kawasoti DCS,Karar,74001801,74001900
+4,Gandaki,DCS Office,Kawasoti DCS,Myadi,64001801,64001900
+4,Gandaki,DCS Office,Kawasoti DCS,Jyaladari,54003601,54003800
+4,Gandaki,DCS Office,Gaidakot SDC,Karar,74001901,74002000
+4,Gandaki,DCS Office,Gaidakot SDC,Myadi,64001901,64002000
+4,Gandaki,DCS Office,Gaidakot SDC,Jyaladari,54003801,54004000
+4,Gandaki,Generation,,Karar,74010000,
+4,Gandaki,Generation,,Myadi,64010000,
+4,Gandaki,Generation,,Jyaladari,54010000,
+4,Gandaki,Transmission,,Karar,74020000,
+4,Gandaki,Transmission,,Myadi,64020000,
+4,Gandaki,Transmission,,Jyaladari,54020000,
+4,Gandaki,Engineering,,Karar,74030000,
+4,Gandaki,Engineering,,Myadi,64030000,
+4,Gandaki,Engineering,,Jyaladari,54030001,

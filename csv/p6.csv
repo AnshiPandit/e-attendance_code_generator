@@ -1,0 +1,46 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+6,Karnali,DCS Office,Surkhet RO,Karar,76000001,76000100
+6,Karnali,DCS Office,Surkhet RO,Myadi,66000001,66000100
+6,Karnali,DCS Office,Surkhet RO,Jyaladari,56000001,56000200
+6,Karnali,DCS Office,Rukum WEST DCS,Karar,76000101,76000200
+6,Karnali,DCS Office,Rukum WEST DCS,Myadi,66000101,66000200
+6,Karnali,DCS Office,Rukum WEST DCS,Jyaladari,56000201,56000400
+6,Karnali,DCS Office,Salyan DCS,Karar,76000201,76000300
+6,Karnali,DCS Office,Salyan DCS,Myadi,66000201,66000300
+6,Karnali,DCS Office,Salyan DCS,Jyaladari,56000401,56000600
+6,Karnali,DCS Office,Dolpa DCS,Karar,76000301,76000400
+6,Karnali,DCS Office,Dolpa DCS,Myadi,66000301,66000400
+6,Karnali,DCS Office,Dolpa DCS,Jyaladari,56000601,56000800
+6,Karnali,DCS Office,Gumgadh DCS,Karar,76000401,76000500
+6,Karnali,DCS Office,Gumgadh DCS,Myadi,66000401,66000500
+6,Karnali,DCS Office,Gumgadh DCS,Jyaladari,56000801,56001000
+6,Karnali,DCS Office,Heldung DCS,Karar,76000501,76000600
+6,Karnali,DCS Office,Heldung DCS,Myadi,66000501,66000600
+6,Karnali,DCS Office,Heldung DCS,Jyaladari,56001001,56001200
+6,Karnali,DCS Office,Kalikot DCS,Karar,76000601,76000700
+6,Karnali,DCS Office,Kalikot DCS,Myadi,66000601,66000700
+6,Karnali,DCS Office,Kalikot DCS,Jyaladari,56001201,56001400
+6,Karnali,DCS Office,Jumla DCS,Karar,76000701,76000800
+6,Karnali,DCS Office,Jumla DCS,Myadi,66000701,66000800
+6,Karnali,DCS Office,Jumla DCS,Jyaladari,56001401,56001600
+6,Karnali,DCS Office,Jajarkot DCS,Karar,76000801,76000900
+6,Karnali,DCS Office,Jajarkot DCS,Myadi,66000801,66000900
+6,Karnali,DCS Office,Jajarkot DCS,Jyaladari,56001601,56001800
+6,Karnali,DCS Office,Dailekh DCS,Karar,76000901,76001000
+6,Karnali,DCS Office,Dailekh DCS,Myadi,66000901,66001000
+6,Karnali,DCS Office,Dailekh DCS,Jyaladari,56001801,56002000
+6,Karnali,DCS Office,Surkhet DCS,Karar,76001001,76001100
+6,Karnali,DCS Office,Surkhet DCS,Myadi,66001001,66001100
+6,Karnali,DCS Office,Surkhet DCS,Jyaladari,56002001,56002200
+6,Karnali,DCS Office,Jahare SDC,Karar,76001101,76001200
+6,Karnali,DCS Office,Jahare SDC,Myadi,66001101,66001200
+6,Karnali,DCS Office,Jahare SDC,Jyaladari,56002201,56002400
+6,Karnali,Generation,,Karar,76010000,
+6,Karnali,Generation,,Myadi,66010000,
+6,Karnali,Generation,,Jyaladari,56010000,
+6,Karnali,Transmission,,Karar,76020000,
+6,Karnali,Transmission,,Myadi,66020000,
+6,Karnali,Transmission,,Jyaladari,56020000,
+6,Karnali,Engineering,,Karar,76030000,
+6,Karnali,Engineering,,Myadi,66030000,
+6,Karnali,Engineering,,Jyaladari,56030001,

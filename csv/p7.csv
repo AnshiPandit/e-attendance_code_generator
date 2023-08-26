@@ -1,0 +1,73 @@
+Pradesh_No,Pradesh Name,Office Type,Office Name,Employee Type,ID Range Start,ID Range End
+7,Sudurpashchim,DCS Office,Attariya RO,Karar,77000001,77000100
+7,Sudurpashchim,DCS Office,Attariya RO,Myadi,67000001,67000100
+7,Sudurpashchim,DCS Office,Attariya RO,Jyaladari,57000001,57000200
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Karar,77000101,77000200
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Myadi,67000101,67000200
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Jyaladari,57000201,57000400
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Karar,77000201,77000300
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Myadi,67000201,67000300
+7,Sudurpashchim,DCS Office,ALREADY ASSIGNED TO P6,Jyaladari,57000401,57000600
+7,Sudurpashchim,DCS Office,Bajura DCS,Karar,77000301,77000400
+7,Sudurpashchim,DCS Office,Bajura DCS,Myadi,67000301,67000400
+7,Sudurpashchim,DCS Office,Bajura DCS,Jyaladari,57000601,57000800
+7,Sudurpashchim,DCS Office,Bajhang DCS,Karar,77000401,77000500
+7,Sudurpashchim,DCS Office,Bajhang DCS,Myadi,67000401,67000500
+7,Sudurpashchim,DCS Office,Bajhang DCS,Jyaladari,57000801,57001000
+7,Sudurpashchim,DCS Office,Doti DCS,Karar,77000501,77000600
+7,Sudurpashchim,DCS Office,Doti DCS,Myadi,67000501,67000600
+7,Sudurpashchim,DCS Office,Doti DCS,Jyaladari,57001001,57001200
+7,Sudurpashchim,DCS Office,Silgadhi SDC,Karar,77000601,77000700
+7,Sudurpashchim,DCS Office,Silgadhi SDC,Myadi,67000601,67000700
+7,Sudurpashchim,DCS Office,Silgadhi SDC,Jyaladari,57001201,57001400
+7,Sudurpashchim,DCS Office,Achham DCS,Karar,77000701,77000800
+7,Sudurpashchim,DCS Office,Achham DCS,Myadi,67000701,67000800
+7,Sudurpashchim,DCS Office,Achham DCS,Jyaladari,57001401,57001600
+7,Sudurpashchim,DCS Office,Mangalsen SDC,Karar,77000801,77000900
+7,Sudurpashchim,DCS Office,Mangalsen SDC,Myadi,67000801,67000900
+7,Sudurpashchim,DCS Office,Mangalsen SDC,Jyaladari,57001601,57001800
+7,Sudurpashchim,DCS Office,Darchula DCS,Karar,77000901,77001000
+7,Sudurpashchim,DCS Office,Darchula DCS,Myadi,67000901,67001000
+7,Sudurpashchim,DCS Office,Darchula DCS,Jyaladari,57001801,57002000
+7,Sudurpashchim,DCS Office,Baitadi DCS,Karar,77001001,77001100
+7,Sudurpashchim,DCS Office,Baitadi DCS,Myadi,67001001,67001100
+7,Sudurpashchim,DCS Office,Baitadi DCS,Jyaladari,57002001,57002200
+7,Sudurpashchim,DCS Office,Patan SDC,Karar,77001101,77001200
+7,Sudurpashchim,DCS Office,Patan SDC,Myadi,67001101,67001200
+7,Sudurpashchim,DCS Office,Patan SDC,Jyaladari,57002201,57002400
+7,Sudurpashchim,DCS Office,Dadeldhura DCS,Karar,77001201,77001300
+7,Sudurpashchim,DCS Office,Dadeldhura DCS,Myadi,67001201,67001300
+7,Sudurpashchim,DCS Office,Dadeldhura DCS,Jyaladari,57002401,57002600
+7,Sudurpashchim,DCS Office,Jogbudha DCS,Karar,77001301,77001400
+7,Sudurpashchim,DCS Office,Jogbudha DCS,Myadi,67001301,67001400
+7,Sudurpashchim,DCS Office,Jogbudha DCS,Jyaladari,57002601,57002800
+7,Sudurpashchim,DCS Office,Mahendranagar DCS,Karar,77001401,77001500
+7,Sudurpashchim,DCS Office,Mahendranagar DCS,Myadi,67001401,67001500
+7,Sudurpashchim,DCS Office,Mahendranagar DCS,Jyaladari,57002801,57003000
+7,Sudurpashchim,DCS Office,Belauri DCS,Karar,77001501,77001600
+7,Sudurpashchim,DCS Office,Belauri DCS,Myadi,67001501,67001600
+7,Sudurpashchim,DCS Office,Belauri DCS,Jyaladari,57003001,57003200
+7,Sudurpashchim,DCS Office,Dhangadhi DCS,Karar,77001601,77001700
+7,Sudurpashchim,DCS Office,Dhangadhi DCS,Myadi,67001601,67001700
+7,Sudurpashchim,DCS Office,Dhangadhi DCS,Jyaladari,57003201,57003400
+7,Sudurpashchim,DCS Office,Attarira SDC,Karar,77001701,77001800
+7,Sudurpashchim,DCS Office,Attarira SDC,Myadi,67001701,67001800
+7,Sudurpashchim,DCS Office,Attarira SDC,Jyaladari,57003401,57003600
+7,Sudurpashchim,DCS Office,Bhajani DCS,Karar,77001801,77001900
+7,Sudurpashchim,DCS Office,Bhajani DCS,Myadi,67001801,67001900
+7,Sudurpashchim,DCS Office,Bhajani DCS,Jyaladari,57003601,57003800
+7,Sudurpashchim,DCS Office,Tikapur DCS,Karar,77001901,77002000
+7,Sudurpashchim,DCS Office,Tikapur DCS,Myadi,67001901,67002000
+7,Sudurpashchim,DCS Office,Tikapur DCS,Jyaladari,57003801,57004000
+7,Sudurpashchim,DCS Office,Lamki SDC,Karar,77002001,77002100
+7,Sudurpashchim,DCS Office,Lamki SDC,Myadi,67002001,67002100
+7,Sudurpashchim,DCS Office,Lamki SDC,Jyaladari,57004001,57004200
+7,Sudurpashchim,Generation,,Karar,76010000,
+7,Sudurpashchim,Generation,,Myadi,66010000,
+7,Sudurpashchim,Generation,,Jyaladari,56010000,
+7,Sudurpashchim,Transmission,,Karar,76020000,
+7,Sudurpashchim,Transmission,,Myadi,66020000,
+7,Sudurpashchim,Transmission,,Jyaladari,56020000,
+7,Sudurpashchim,Engineering,,Karar,76030000,
+7,Sudurpashchim,Engineering,,Myadi,66030000,
+7,Sudurpashchim,Engineering,,Jyaladari,56030001,
